@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Oswaldy&display=swap");
+
+body {
+    font-family: 'Raleway' sans-serif;
+    background-color: rgb(243, 142, 33);
+}
+
+.main-image {
+    text-align: center;
+}
+
+.welcome-label {
+    text-align: center;
+}
+
+.start-text {
+    padding-bottom: 0px;
+    font-size: 20px;
+    text-indent: 20px;
+    text-align: left;
+}
+
+.legal-services-for-everyone {
+    padding-bottom: 0px;
+    font-size: 20px;
+    text-indent: 20px;
+    text-align: left;
+}
+
+.the-cost-of-a-lawyer {
+    padding-bottom: 20px;
+    font-size: 20px;
+    text-indent: 20px;
+    text-align: left;
+}
+
+.contacting-a-lawyer {
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.list-contacting-a-lawyer {
+    padding-bottom: 10 px;
+    font-size: 20px;
+    text-indent:  20px;
+    text-align: left;
+}
+
+.about-the-criminal-code-of-the-Russian-Federation {
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.information-about-vadim-alimetovich {
+    font-size: 20px;
+    text-align: left;
+}
